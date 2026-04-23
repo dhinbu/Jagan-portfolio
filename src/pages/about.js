@@ -25,7 +25,7 @@ export default function About() {
               </h2>
               <p className="font-medium">
                 Hi, my name is <strong>Peela Dhinbu Jagannadham</strong>. I am a
-                dedicated front-end web developer with around 2 years 6 months of
+                dedicated front-end web developer with around 2+ years of
                 experience in the field. I specialize in building responsive,
                 high-performance websites and applications using modern
                 technologies like React.js and Next.js. I have hands-on
