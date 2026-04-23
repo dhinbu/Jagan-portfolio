@@ -63,22 +63,22 @@ const Experience = () => {
             address="Hyderabad"
             work="A React.js developer designs and implements user interfaces and components using React.js, ensuring they are efficient and reusable. They also collaborate with backend developers and designers to integrate API services and optimize performance across different devices and browsers."
           />
-          <Details
-            position="Jr Software Engineer"
-            company="Reigns Infotech PVT LTD"
-            companyLink="https://reign-infotech.com/"
-            time="02/2023-03/2024"
-            address="Bangalore"
-            work="React.js Developer Specialized in building responsive and interactive web applications using React.js and modern JavaScript. Experienced in integrating RESTful APIs, collaborating with design teams, and ensuring cross-browser compatibility."
-          />
-          <Details
-            position="Jr Software Engineer"
-            company="Capital numbers"
-            companyLink="https://www.capitalnumbers.com/"
-            time="10/2022-01/2023"
-            address="Kolkata WB"
-            work="Worked as a Front-End Developer on the Active Health project, building responsive and user-friendly interfaces. Focused on optimizing user experience and implementing key features to support the platform’s healthcare services."
-          />
+          // <Details
+          //   position="Jr Software Engineer"
+          //   company="Reigns Infotech PVT LTD"
+          //   companyLink="https://reign-infotech.com/"
+          //   time="02/2023-03/2024"
+          //   address="Bangalore"
+          //   work="React.js Developer Specialized in building responsive and interactive web applications using React.js and modern JavaScript. Experienced in integrating RESTful APIs, collaborating with design teams, and ensuring cross-browser compatibility."
+          // />
+          // <Details
+          //   position="Jr Software Engineer"
+          //   company="Capital numbers"
+          //   companyLink="https://www.capitalnumbers.com/"
+          //   time="10/2022-01/2023"
+          //   address="Kolkata WB"
+          //   work="Worked as a Front-End Developer on the Active Health project, building responsive and user-friendly interfaces. Focused on optimizing user experience and implementing key features to support the platform’s healthcare services."
+          // />
         </ul>
       </div>
     </div>
