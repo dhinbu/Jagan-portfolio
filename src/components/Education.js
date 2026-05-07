@@ -42,7 +42,7 @@ const Education = () => {
       </h2>
 
       <div className="font-bold text-2xl text-center md:text-xl">
-        Bachelor of Technology in Mechanical
+        Bachelor of Technology in Computer Science
       </div>
       <div className="font-semibold text-xl text-center md:text-lg">
         Andhra University
